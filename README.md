@@ -1,16 +1,16 @@
-## Hi there 👋
+#👋 Olá, me chamo Gabriel Lucas!
 
-<!--
-**gabrielucas1/gabrielucas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-🎓 Estudando ADS desde 2023 (IFTM)
+-💻 Atualmente estagiário de desenvolvimento na Codiub, trabalhando com Angular e Spring Boot
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriel-lucas-seabra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl9736387@gmail.com)
+
+## Toolbox:
+
+![Skills](https://skillicons.dev/icons?i=java,spring,angular,react,nextjs,ts,mysql,postgres,git,python)
