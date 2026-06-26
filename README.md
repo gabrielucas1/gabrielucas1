@@ -1,6 +1,6 @@
 #👋 Olá, me chamo Gabriel Lucas!
 
-## Sobre mim
+# Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro.
 
