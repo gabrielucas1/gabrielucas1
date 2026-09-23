@@ -17,7 +17,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (desde 2023) no Instituto Fe
 
 - 🔬 **Iniciação Científica (PIBITI/IFTM)** · *Pesquisador / Desenvolvedor* `(02/2025 – 12/2025)`
   - Desenvolvimento de sistema web de gestão acadêmica com **Next.js**, **TypeScript**, **Firebase** e **Tailwind CSS**.
-  - 
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-seabra)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl9736387@gmail.com)
 
